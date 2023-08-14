@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# This is a simple bash scripts runs python unittesting
+# This is a simple Bash scripts runs python unittest
 # module from the current working directory.
 #
-# A simple call on the file will do: $ ./unittest
+# A simple call on the file will do: $ ./unittest.
 
 python3 -m unittest discover tests
