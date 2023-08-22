@@ -6,17 +6,18 @@
     border-radius: 4px;
 }
 
-button {
+.filters button {
     font-size: 18px;
     background-color: #ff5a5f;
     color: #FFFFFF;
     height: 48px;
-    border: 0;
+    border: none;
     width: 20%;
     border-radius: 4px;
     margin: 10px auto;
     float: right;
-    margin-right: 20px;    
+    margin-right: 20px;
+    position: 30px:    
 }
 
 .filters button:hover {
