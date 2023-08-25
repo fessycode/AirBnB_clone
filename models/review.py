@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This script containing the defination of Review class
+This script containing the defination of Review class.
 """
 from models.base_model import BaseModel
 
