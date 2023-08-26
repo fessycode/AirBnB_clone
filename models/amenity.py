@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This script containing the definition of Amenity class
+This script containing the definition of Amenity class.
 """
 from models.base_model import BaseModel
 
